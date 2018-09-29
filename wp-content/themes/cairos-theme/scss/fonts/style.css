@@ -1,0 +1,107 @@
+@font-face {
+    font-family: 'brandon_textblack';
+    src: url('hvd_fonts_-_brandontext-black-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textblack_italic';
+    src: url('hvd_fonts_-_brandontext-blackitalic-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textbold';
+    src: url('hvd_fonts_-_brandontext-bold-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textbold_italic';
+    src: url('hvd_fonts_-_brandontext-bolditalic-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textlight';
+    src: url('hvd_fonts_-_brandontext-light-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textlight_italic';
+    src: url('hvd_fonts_-_brandontext-lightitalic-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textmedium';
+    src: url('hvd_fonts_-_brandontext-medium-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textmedium_italic';
+    src: url('hvd_fonts_-_brandontext-mediumitalic-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_text_regularregular';
+    src: url('hvd_fonts_-_brandontext-regular-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textregular_italic';
+    src: url('hvd_fonts_-_brandontext-regularitalic-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-regularitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textthin';
+    src: url('hvd_fonts_-_brandontext-thin-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'brandon_textthin_italic';
+    src: url('hvd_fonts_-_brandontext-thinitalic-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

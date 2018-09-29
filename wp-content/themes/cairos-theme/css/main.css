@@ -1,0 +1,103 @@
+@import url(../scss/fonts/style.css);
+/* handy matrix calculator http://www.boogdesign.com/examples/transforms/matrix-calculator.html */
+:root {
+  font-size: 18px; }
+
+.cm-text-primary {
+  color: #007bff; }
+
+.cm-text-secondary {
+  color: #fd7e14; }
+
+.cm-text-info {
+  color: #17a2b8; }
+
+.cm-text-light {
+  color: #646668; }
+
+.cm-text-dark {
+  color: #1d1d1d; }
+
+.cm-text-muted {
+  color: #a5a5a5; }
+
+.cm-text-body {
+  color: #28292b; }
+
+.cm-bg-primary {
+  background-color: #007bff; }
+
+.cm-bg-secondary {
+  background-color: #fd7e14; }
+
+.cm-bg-info {
+  background-color: #17a2b8; }
+
+.cm-bg-light {
+  background-color: #646668; }
+
+.cm-bg-dark {
+  background-color: #1d1d1d; }
+
+.cm-bg-muted {
+  background-color: #a5a5a5; }
+
+.cm-bg-body {
+  background-color: #28292b; }
+
+.cm-bg-transparent {
+  background-color: transparent; }
+
+h1, h2, h3, h4 {
+  font-family: "brandon_textbold"; }
+
+p, strong {
+  font-family: "brandon_text_regularregular"; }
+
+strong {
+  font-weight: 800; }
+
+small, span {
+  font-family: "brandon_text_regularregular"; }
+
+a, button, input, .btn {
+  font-family: "Roboto", serif; }
+
+.bold {
+  font-weight: 800; }
+
+.regular {
+  font-weight: 500; }
+
+.semi-bold {
+  font-weight: 700; }
+
+.light {
+  font-weight: 300; }
+
+.cm-text-small {
+  font-size: 0.75rem; }
+
+a, .btn, input {
+  font-size: 0.75rem !important; }
+
+p, p > strong {
+  font-size: 0.75rem;
+  letter-spacing: 1px;
+  line-height: 1.5rem; }
+
+nav {
+  height: 6.5rem; }
+  nav .navbar-nav li a {
+    color: #28292b;
+    letter-spacing: .05rem; }
+
+.carousel {
+  margin-top: -6.5rem; }
+  .carousel .carusel-inner {
+    background-size: cover; }
+  .carousel .carousel-caption {
+    bottom: 50%; }
+
+footer {
+  height: 3.25rem; }

@@ -1,0 +1,12 @@
+// carrusel de productos
+.carousel{
+	margin-top: -$cm-height-header;
+
+	.carusel-inner{
+		background-size: cover;
+	}
+
+	.carousel-caption{
+		bottom: 50%;
+	}
+}

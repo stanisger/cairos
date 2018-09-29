@@ -1,0 +1,29 @@
+# Carpetas
+/wp-admin
+/wp-includes
+
+/wp-content/languaje
+/wp-content/upgrade
+/wp-content/uploads
+/wp-content/ai1wm-backups
+/wp-content/index.php
+
+# Archivos
+.htaccess
+index.php
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config-sample.php
+wp-config.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+license.txt
+readme.html

@@ -1,0 +1,13 @@
+// tipográfia
+@import '../scss/fonts/style.css';
+
+//scss
+@import 'variables';
+@import 'mixins';
+@import 'structur';
+
+//clases de proyecto
+@import 'modules/variables-project';
+@import 'modules/header';
+@import 'modules/home';
+@import 'modules/footer';

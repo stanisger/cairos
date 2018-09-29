@@ -1,0 +1,14 @@
+nav{
+ height: $cm-height-header;
+
+ .navbar-nav{
+
+   li{
+
+   	a{
+     color: $cm-body-color;
+   	 letter-spacing: .05rem;
+   	}
+  }
+ }
+}
